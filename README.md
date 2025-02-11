@@ -7,7 +7,7 @@
 </p>
 
 ## 👋 Sobre mí  
-Soy desarrolladora con solida base en **Java, React, Spring Boot y MySQL**. Me apasiona construir aplicaciones funcionales y escalables. 🚀
+Soy desarrolladora con sólida base en **Java, React, Spring Boot y MySQL**. Me apasiona construir aplicaciones funcionales y escalables. 🚀
 
 ---
 
@@ -29,6 +29,7 @@ Soy desarrolladora con solida base en **Java, React, Spring Boot y MySQL**. Me a
 
 ### 📝 **WebApp de Finanzas Personales**
 📍 Aplicación de finanzas personales para realizar un seguimientos, organización y control de tus gastos personales.
+
 🔗 [Repositorio](https://github.com/No-Country-simulation/equipo-s20-14-webapp.git)
 
 
@@ -36,7 +37,7 @@ Soy desarrolladora con solida base en **Java, React, Spring Boot y MySQL**. Me a
 
 ### 🛍️ **eCommerce con JavaScript**  
 📍 Tienda en línea con carrito de compras y pasarela de pago.  
-🔗 [Repositorio](https://github.com/romy-13/ecommerce)  
+🔗 [Repositorio](https://github.com/Romy-13/Proyectos.git)  
  
 
 ---
@@ -52,5 +53,5 @@ Soy desarrolladora con solida base en **Java, React, Spring Boot y MySQL**. Me a
 ---
 
 ## 📬 Contáctame  
-💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+💼 [LinkedIn](https://www.linkedin.com/in/romina-rodríguez-865433292)  
 📧 **romirodrigez13@gmail.com**  
